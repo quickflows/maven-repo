@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.envoisolutions.sxc</groupId>
+  <artifactId>sxc-core</artifactId>
+  <versioning>
+    <release>0.7.3-osgi</release>
+    <versions>
+      <version>0.7.3-osgi</version>
+    </versions>
+    <lastUpdated>20171231052439</lastUpdated>
+  </versioning>
+</metadata>
