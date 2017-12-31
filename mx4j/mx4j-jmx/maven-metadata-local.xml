@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>mx4j</groupId>
+  <artifactId>mx4j-jmx</artifactId>
+  <versioning>
+    <release>2.1.1-osgi</release>
+    <versions>
+      <version>2.1.1-osgi</version>
+    </versions>
+    <lastUpdated>20171231033757</lastUpdated>
+  </versioning>
+</metadata>
