@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.sf.saxon</groupId>
+  <artifactId>saxon-dom</artifactId>
+  <versioning>
+    <release>8.9.0.4-osgi</release>
+    <versions>
+      <version>8.9.0.4-osgi</version>
+    </versions>
+    <lastUpdated>20180101014554</lastUpdated>
+  </versioning>
+</metadata>
