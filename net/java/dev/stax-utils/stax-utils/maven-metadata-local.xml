@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.java.dev.stax-utils</groupId>
+  <artifactId>stax-utils</artifactId>
+  <versioning>
+    <release>20080702-osgi</release>
+    <versions>
+      <version>20080702-osgi</version>
+    </versions>
+    <lastUpdated>20180101014353</lastUpdated>
+  </versioning>
+</metadata>
